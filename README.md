@@ -1,2 +1,4 @@
-# Linear-Regression
-Linear Regression manual implementation (without Skitlearn)
+# Gradient-Descent
+Gradient Descent manual implementation without Skitlearn:
+-linear regression
+-gradient descent with polynomial
